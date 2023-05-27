@@ -1,2 +1,2 @@
 new file
-git branch master
+git branch new branch
