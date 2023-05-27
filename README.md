@@ -1,2 +1,2 @@
-new file
-git branch new branch
+it is new branch we have to save it as it is
+#new branch name
